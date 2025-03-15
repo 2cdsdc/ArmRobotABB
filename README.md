@@ -1,4 +1,3 @@
 # CADmodelinng
-CAD 3Dprojects and designs and simulation projects 
-<br>
-I upload solidworks and ansys and creo files and silumation projects 
+Arm Robot 3D model design in solidworks
+
